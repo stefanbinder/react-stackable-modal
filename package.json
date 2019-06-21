@@ -2,7 +2,7 @@
   "name": "react-stackable-modal",
   "version": "1.0.0",
   "description": "Modals which can be stacked and multiple can open at the same time and be switchable.",
-  "main": "./build/index.js",
+  "main": "./index.js",
   "types": "./types/index.d.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "Stefan Binder",
   "email": "stefan.binder89@gmail.com",
-  "homepage": "https://github.com/ashleygwilliams/my_package",
+  "homepage": "https://github.com/stefanbinder/react-stackable-modal",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
